@@ -1,0 +1,268 @@
+
+{
+    "workbench.iconTheme": "vscode-icons",
+    "security.workspace.trust.untrustedFiles": "open",
+    "editor.minimap.enabled": false,
+    "breadcrumbs.enabled": false,
+    "workbench.productIconTheme": "fluent-icons",
+    "workbench.colorCustomizations": {                                               // All The customisations related to the editor theme
+
+        // Terminal
+
+        "terminal.foreground":"#F8F8F2",
+        "terminal.background":"#1E1F1A",
+        "terminalCursor.background":"#F8F8F2",
+        "terminalCursor.foreground":"#F8F8F2",
+        "terminal.ansiBlack":"#272822",
+        "terminal.ansiBlue":"#66D9EF",
+        "terminal.ansiBrightBlack":"#75715E",
+        "terminal.ansiBrightBlue":"#66D9EF",
+        "terminal.ansiBrightCyan":"#A1EFE4",
+        "terminal.ansiBrightGreen":"#A6E22E",
+        "terminal.ansiBrightMagenta":"#AE81FF",
+        "terminal.ansiBrightRed":"#F92672",
+        "terminal.ansiBrightWhite":"#F9F8F5",
+        "terminal.ansiBrightYellow":"#f7cf98",
+        "terminal.ansiCyan":"#A1EFE4",
+        "terminal.ansiGreen":"#A6E22E",
+        "terminal.ansiMagenta":"#AE81FF",
+        "terminal.ansiRed":"#F92672",
+        "terminal.ansiWhite":"#F8F8F2",
+        "terminal.ansiYellow":"#F4BF75",
+
+        // Status Bar
+            
+        "statusBar.background" : "#ff0033",
+        "statusBar.foreground" : "#fff",
+        "statusBar.noFolderBackground" : "#272822",
+        "statusBar.debuggingBackground": "#b3ff00",
+        "statusBarItem.remoteBackground": "#00FF00",
+        "statusBarItem.remoteForeground": "#000000",
+
+        // Breakpoint
+        
+        "debugIcon.breakpointForeground": "#00FFFF",
+
+        // Cursor
+
+        "editorCursor.foreground": "#00FF00",
+        "editorCursor.background": "#00FF00",
+        "editor.cursorStyle": "line",
+        "editor.lineHighlightBackground": "#2b2b26",
+
+        // Activity Bar
+
+        "activityBar.activeBackground": "#272822",
+        "activityBar.background": "#272822",
+        "activityBar.inactiveForeground": "#9c8844",
+        "activityBarBadge.background": "#00FF00",
+        "activityBarBadge.foreground": "#000",
+        "activityBar.activeBorder": "#00FF00",
+        "activityBar.activeFocusBorder": "#00FF00",
+        "activityBar.border": "#272822",
+        "activityBar.dropBorder": "#00FF00",
+        "activityBar.foreground": "#F8BA34",
+
+        // Buttons
+
+        "button.background": "#ff0033",
+        "button.hoverBackground": "#a10020",
+        // "button.secondaryBackground": "#00FF00",
+        // "button.secondaryHoverBackground": "#00a300",
+
+        // Title Bar   
+
+        "titleBar.inactiveBackground": "#333333",
+        "titleBar.activeBackground": "#272822",
+
+        // Badges
+
+        "badge.foreground": "#000",
+        "badge.background": "#00FF00",
+
+        // Side Bar 
+
+        "sideBar.background": "#272822",
+        "sideBar.foreground": "#fff",
+
+        // Tabs
+
+        "tab.activeBackground": "#1c1d19",
+        "tab.inactiveBackground": "#272822",
+        "editorGroupHeader.tabsBackground": "#272822",
+
+        // Dropdown Lists
+
+        "dropdown.background": "#272822",
+        "dropdown.listBackground": "#1c1d19",
+
+        // Editor
+
+        "editor.background":"#272822",
+        "editorLineNumber.foreground": "#92823f",                       // default Line number color
+        "editorLineNumber.activeForeground": "#ffe375",                // Active Line number color
+        "editor.hideCursorInOverviewRuler": true,                     // Controls if the cursor should be hidden in the overview ruler.
+        "editor.overviewRulerBorder": false,                           // Controls if a border should be drawn around the overview ruler.
+        "editor.overviewRulerLanes": 3,                               // Controls the number of decorations that can show up at the same position in the overview ruler
+
+        // Editor Window 
+
+        // "window.activeBorder": "#fff",
+        // "window.inactiveBorder": "#272822",
+
+        // Scroll Bar
+
+        "scrollbar.shadow": "#272822",
+        "scrollbarSlider.activeBackground": "#FF0033",
+        "scrollbarSlider.hoverBackground": "#FF0033",
+        "editorOverviewRuler.addedForeground": "#0000",
+        "editorOverviewRuler.modifiedForeground": "#0000",
+        "editorOverviewRuler.deletedForeground": "#0000",
+        "editorGutter.addedBackground": "#0000",                       // Gutter (same as tweaking scm.diffDecorations?)
+        "editorGutter.modifiedBackground": "#0000",                    // Gutter (same as tweaking scm.diffDecorations?)
+        "editorGutter.deletedBackground": "#0000",                     // Gutter (same as tweaking scm.diffDecorations?)
+
+        // Other
+
+        "focusBorder": "#252526",                                           // The Border color of the active pane
+
+        // Bracket Pair Colorization
+
+        "bracketPairColorizer.colorMode": "Independent",
+        "editorBracketHighlight.foreground1": "#00ffd5",
+        "editorBracketHighlight.foreground2": "#ff5779",
+        "editorBracketHighlight.foreground3": "#ffda0a",
+        "editorBracketHighlight.foreground4": "#0011ff",
+        "editorBracketHighlight.foreground5": "#c2ff0c",
+        "editorBracketHighlight.foreground6": "#00ff40",
+        "editorBracketHighlight.unexpectedBracket.foreground": "#e00000",
+        
+        // Selection
+
+        // "editor.selectionBackground": "#aa0022",
+
+        // Tool Bar
+
+        // "toolbar.activeBackground": "#FFCF4E",
+
+        // Buttons
+
+        // "button.background": "#F92672"                                      // Button background color.
+        // "button.foreground": "#fff"                                         // Button foreground color.
+        // "button.hoverBackground": "#000"                                    // Button background color when hovering.
+        //  "button.secondaryForeground": "#000",                              // Secondary button foreground color.
+        //  "button.secondaryBackground": "#000",                              // Secondary button background color.
+        //  "button.secondaryHoverBackground": "#000",                         // Secondary button background color when hovering.
+        //  "checkbox.background": "#000",                                     // Background color of checkbox widget.
+        //  "checkbox.foreground": "#000",                                     // Foreground color of checkbox widget.
+        //  "checkbox.border": "#000",                                         // Border color of checkbox widget.
+
+
+        // Default Customisations
+
+        // "editor.foreground":"#131215",
+        // "terminal.foreground":"#131215",
+        // "terminalCursor.background":"#A89984",
+        // "terminalCursor.foreground":"#A89984",
+        // "terminal.ansiBlack":"#1D2021",
+        // "terminal.ansiBlue":"#0D6678",
+        // "terminal.ansiBrightBlack":"#665C54",
+        // "terminal.ansiBrightBlue":"#0D6678",
+        // "terminal.ansiBrightCyan":"#8BA59B",
+        // "terminal.ansiBrightGreen":"#95C085",
+        // "terminal.ansiBrightMagenta":"#8F4673",
+        // "terminal.ansiBrightRed":"#FB543F",
+        // "terminal.ansiBrightWhite":"#FDF4C1",
+        // "terminal.ansiBrightYellow":"#FAC03B",
+        // "terminal.ansiCyan":"#8BA59B",
+        // "terminal.ansiGreen":"#95C085",
+        // "terminal.ansiMagenta":"#8F4673",
+        // "terminal.ansiRed":"#FB543F",
+        // "terminal.ansiWhite":"#A89984",
+        // "terminal.ansiYellow":"#FAC03B"
+
+    },
+
+    // Custom UI Extention
+    
+    // "customizeUI.stylesheet": {
+    //     "body.inline-title-bar .monaco-workbench:not(.fullscreen) .sidebar .composite.title": "background: rgba(0, 0, 0, 0) !important;", ".statusbar-item.left.has-background-color.first-visible-item": "background-color: rgba(37, 37, 38, 0) !important;", ".monaco-workbench .part > .title": "background: rgba(0, 0, 0, 0) !important;", "body.inline-title-bar:not(.activity-bar-at-bottom) .monaco-workbench:not(.fullscreen) .activitybar:not(.right) .activity-bar-placeholder": "background: rgba(0, 0, 0, 0) !important;", ".monaco-list .monaco-list-row": "border-radius: 6px !important;", ".part.statusbar": "background-color: rgba(37, 37, 38, 0) !important;", ".monaco-workbench .part.panel": "border-radius: 6px !important; margin-top: 6px !important; height: calc(100% - 6px) !important; width: calc(100% - 6px) !important; box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24) !important;", "#workbench.parts.editor > .content": "border-bottom-left-radius: 6px !important;", ".monaco-workbench .part.panel.bottom .composite.title": "border-top-color: rgba(128, 128, 128, 0) !important;", ".parts.editor > div.content > div.grid-view-container > div > div > div > div.split-view-container > div": "width: calc(100% - 6px) !important;", ".part.editor.has-watermark": "height: calc(100% - 6px) !important; margin-top: 6px !important; border-radius: 6px !important; width: calc(100% - 6px) !important; box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24) !important;"
+    // },
+
+    "files.autoSave": "afterDelay",
+    "gitlens.currentLine.scrollable": false,
+    "explorer.confirmDelete": false,
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "terminal.integrated.fontFamily": "FiraCode Nerd Font",
+    "terminal.integrated.fontSize": 14,
+    "editor.fontFamily": "'Cascadia Code'",
+    "editor.fontLigatures": true,
+
+    // Editor Scrollbar Customization
+
+    "editor.scrollbar.horizontal": "hidden",
+    "editor.scrollbar.horizontalScrollbarSize": 8,
+    "editor.scrollbar.verticalScrollbarSize": 10,
+
+    "cSpell.userWords": [],
+    
+    "window.title": "${dirty}${activeEditorShort}",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "editor.cursorBlinking": "expand",
+    "terminal.integrated.cursorBlinking": true,
+    "security.workspace.trust.banner": "never",
+    "security.workspace.trust.emptyWindow": false,
+    "explorer.confirmDragAndDrop": false,
+    "terminal.integrated.allowChords": false,
+    "terminal.integrated.profiles.windows": {
+        "PowerShell": {
+            "source": "PowerShell",
+            "icon": "terminal-powershell"
+        },
+        "Command Prompt": {
+            "path": [
+                "${env:windir}\\Sysnative\\cmd.exe",
+                "${env:windir}\\System32\\cmd.exe"
+            ],
+            "args": [],
+            "icon": "terminal-cmd"
+        },
+        "Git Bash": {
+            "source": "Git Bash"
+        },
+        "Windows PowerShell": {
+            "path": "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe"
+        }
+    },
+    "terminal.integrated.fontWeight": 590,
+    "liveServer.settings.donotVerifyTags": true,
+    "jshint.enable": false,
+    "code-runner.clearPreviousOutput": true,
+    "code-runner.runInTerminal": true,
+    "editor.linkedEditing": true,
+    "workbench.colorTheme": "Monokai Dark Soda",
+    "terminal.integrated.gpuAcceleration": "off",
+    "editor.cursorWidth": 3,
+    "editor.rename.enablePreview": false,
+    "workbench.editor.enablePreview": false,
+
+    "files.exclude" : {
+        // ".swift-sfdc.json": true,
+    },
+    "editor.cursorSmoothCaretAnimation": true,
+    "cSpell.ignoreWords": [
+        "Photoshop"
+    ],
+    "editor.suggest.showStatusBar": true,
+    "editor.bracketPairColorization.enabled": true,
+    "editor.suggest.preview": true,
+    "editor.matchBrackets": "never",
+    "editor.hideCursorInOverviewRuler": true,
+    "editor.overviewRulerBorder": false,
+    "vsicons.dontShowNewVersionMessage": true,
+
+    "files.associations": {
+        "<specific file>.json": "jsonc"
+    },
+    "workbench.statusBar.visible": false
+}
