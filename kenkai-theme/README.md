@@ -33,8 +33,8 @@
 
 <div class="Useful_links">
     <h2>Here are some useful Links</h2>
-    <h3><a href="">My Starship Configuration File</a></h3>
-    <h3><a href="">My Visual Studio Code Settings.json File</a></h3>
+    <h3><a href="https://github.com/TheAmalLalgi/KenKai-Theme/blob/main/Assets/Starship.toml">My Starship Configuration File</a></h3>
+    <h3><a href="https://github.com/TheAmalLalgi/KenKai-Theme/blob/main/Assets/settings.json">My Visual Studio Code Settings.json File</a></h3>
 </div>
 
 <div align="center">
