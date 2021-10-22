@@ -54,7 +54,7 @@ I used some extentions with the theme too, for this output! Namely, a product ic
 *   [Github](https://github.com/TheAmalLalgi)
 *   [Pintrest](https://pintrest.com/_u/amallalgi)
 *   [DeviantArt](https://www.deviantart.com/amallalgi)
-*   [Github Repository for this Theme](#)
+*   [Github Repository for this Theme](https://github.com/TheAmalLalgi/KenKai-Theme)
 *   [Email me at: amallalgi2487@gmail.com](mailto:amallalgi2487@gmail.com)
 
 </div>
