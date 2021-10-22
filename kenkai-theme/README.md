@@ -10,13 +10,13 @@ KenKai Theme is a dark color theme, mostly based on Monokai Dark Theme. It has a
 
 </div>
 
-![](../kenkai-theme/Images/File2.png)
+![](https://github.com/TheAmalLalgi/KenKai-Theme/blob/main/kenkai-theme/Images/File2.png)
 
 <div>  
 
 ### and the Bash looks great too!
 
-![](../kenkai-theme/Images/Bash3.png)
+![](https://github.com/TheAmalLalgi/KenKai-Theme/blob/main/kenkai-theme/Images/Bash3.png)
 
 ### I personaly use and recommend Git Bash
 
@@ -24,7 +24,7 @@ I use Git Bash with starship, which makes it looks freakin' cool as Hell! I'll p
 
 </div>
 
-![](../kenkai-theme/Images/Home2.png)
+![](https://github.com/TheAmalLalgi/KenKai-Theme/blob/main/kenkai-theme/Images/Home2.png)
 
 I used some extentions with the theme too, for this output! Namely, a product icon theme named <span class="Main-Words">Fluent Icons</span>
 
