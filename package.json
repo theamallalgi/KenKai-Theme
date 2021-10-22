@@ -1,0 +1,37 @@
+{
+    "name": "kenkai-theme",
+    "displayName": "Kenkai Theme",
+    "description": "VS code theme made for developers who love Monokai but who wants more!",
+    "version": "1.1.0",
+    "publisher": "TheAmalLalgi",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/TheAmalLalgi/KenKai-Theme.git"
+    },
+    "keywords": [
+        "Monokai",
+        "Dark",
+        "Monokai Pro",
+        "Dark Theme",
+        "TheAmalLalgi",
+        "Amal Lalgi",
+        "Dracula",
+        "Themes",
+        "theme"
+    ],
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "kenKai Theme",
+                "uiTheme": "vs-dark",
+                "path": "kenkai-theme/themes/kenKai Theme-color-theme.json"
+            }
+        ]
+    }
+}
