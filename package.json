@@ -30,7 +30,7 @@
             {
                 "label": "kenKai Theme",
                 "uiTheme": "vs-dark",
-                "path": "kenkai-theme/themes/kenKai Theme-color-theme.json"
+                "path": "themes/kenKai Theme-color-theme.json"
             }
         ]
     }
