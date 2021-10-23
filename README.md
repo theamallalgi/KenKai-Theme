@@ -6,7 +6,7 @@
 
 ## For Those who love Monokai, but who wants much more!
 
-KenKai Theme is a dark color theme, mostly based on Monokai Dark Theme. It has a customized user interface theme for Visual Studio Code for Monokai Lovers Who likes More! and I truly hope you like it, If you don't feel free to swith to Monokai Pro or any other Monokai Theme!
+KenKai Theme is a dark color theme, mostly based on Monokai Dark Theme. It has a customized user interface theme for Visual Studio Code for Monokai Lovers Who likes More! and I truly hope you like it, If you don't feel free to switch to Monokai Pro or any other Monokai Theme!
 
 </div>
 
@@ -18,7 +18,7 @@ KenKai Theme is a dark color theme, mostly based on Monokai Dark Theme. It has a
 
 ![](https://raw.githubusercontent.com/TheAmalLalgi/KenKai-Theme/main/Images/Bash3.png)
 
-### I personaly use and recommend Git Bash
+### I personally use and recommend Git Bash
 
 I use Git Bash with starship, which makes it looks freakin' cool as Hell! I'll provide the link to my starship config file below.
 
@@ -26,7 +26,7 @@ I use Git Bash with starship, which makes it looks freakin' cool as Hell! I'll p
 
 ![](https://raw.githubusercontent.com/TheAmalLalgi/KenKai-Theme/main/Images/Extentions.png)
 
-I used some extentions with the theme too, for this output! Namely, a product icon theme named <span class="Main-Words">Fluent Icons</span>
+I used some extensions with the theme too, for this output! Namely, a product icon theme named <span class="Main-Words">Fluent Icons</span>
 
 </div>
 
@@ -50,7 +50,7 @@ I used some extentions with the theme too, for this output! Namely, a product ic
 *   [Instagram](https://www.instagram.com/TheAmalLalgi)
 *   [Twitter](https://twitter.com/AmalLalgi)
 *   [LinkedIn](https://www.linkedin.com/in/amal-lalgi-8b193521a/)
-*   [behance](https://www.behance.net/amallalgi)
+*   [Behance](https://www.behance.net/amallalgi)
 *   [Github](https://github.com/TheAmalLalgi)
 *   [Pintrest](https://pintrest.com/_u/amallalgi)
 *   [DeviantArt](https://www.deviantart.com/amallalgi)
