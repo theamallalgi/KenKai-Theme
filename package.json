@@ -2,7 +2,7 @@
     "name": "kenkai-theme",
     "displayName": "Kenkai Theme",
     "description": "VS code theme made for developers who love Monokai but who wants more!",
-    "version": "2.0.0",
+    "version": "2.1.0",
     "publisher": "TheAmalLalgi",
     "icon": "Images/Logo.png",
     "repository": {
