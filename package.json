@@ -4,6 +4,7 @@
     "description": "VS code theme made for developers who love Monokai but who wants more!",
     "version": "1.4.0",
     "publisher": "TheAmalLalgi",
+    "icon": "",
     "repository": {
         "type": "git",
         "url": "https://github.com/TheAmalLalgi/KenKai-Theme.git"
@@ -17,7 +18,12 @@
         "Amal Lalgi",
         "Dracula",
         "Themes",
-        "theme"
+        "theme",
+        "Atom",
+        "Sublime Text",
+        "Acrylic",
+        "Cool",
+        "Best Theme"
     ],
     "engines": {
         "vscode": "^1.61.2"
