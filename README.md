@@ -4,19 +4,19 @@
 
 # Kenkai Theme for Visual Studio Code
 
-## For Those who love Monokai, but who wants much more!
+## For Those who love Monokai, but want much more!
 
 KenKai Theme is a dark color theme, mostly based on Monokai Dark Theme. It has a customized user interface theme for Visual Studio Code for Monokai Lovers Who likes More! and I truly hope you like it, If you don't feel free to switch to Monokai Pro or any other Monokai Theme!
 
 </div>
 
-![](https://raw.githubusercontent.com/TheAmalLalgi/KenKai-Theme/main/Images/File2.png)
+![](https://raw.githubusercontent.com/TheAmalLalgi/KenKai-Theme/main/Images/Open-File.png)
 
 <div>  
 
 ### and the Bash looks great too!
 
-![](https://raw.githubusercontent.com/TheAmalLalgi/KenKai-Theme/main/Images/Bash3.png)
+![](https://raw.githubusercontent.com/TheAmalLalgi/KenKai-Theme/main/Images/terminal.png)
 
 ### I personally use and recommend Git Bash
 
@@ -24,13 +24,17 @@ I use Git Bash with starship, which makes it looks freakin' cool as Hell! I'll p
 
 </div>
 
-![](https://raw.githubusercontent.com/TheAmalLalgi/KenKai-Theme/main/Images/Extentions.png)
+![](https://raw.githubusercontent.com/TheAmalLalgi/KenKai-Theme/main/Images/KenKai-Theme.png)
 
 I used some extensions with the theme too, for this output! Namely, a product icon theme named <span class="Main-Words">Fluent Icons</span>
 
 </div>
 
 </div>
+
+![](https://raw.githubusercontent.com/TheAmalLalgi/KenKai-Theme/main/Images/Homepage.png)
+
+<div>  
 
 <div class="Useful_links">
 
@@ -39,6 +43,8 @@ I used some extensions with the theme too, for this output! Namely, a product ic
 ### [My Starship Configuration File](https://github.com/TheAmalLalgi/KenKai-Theme/blob/main/Assets/Starship.toml)
 
 ### [My Visual Studio Code Settings.json File](https://github.com/TheAmalLalgi/KenKai-Theme/blob/main/Assets/settings.json)
+
+### [You can go to this website to get a detailed explanation and installation procedures](https://TheAmalLalgi.github.io/#)
 
 </div>
 
