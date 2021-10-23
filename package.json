@@ -4,7 +4,7 @@
     "description": "VS code theme made for developers who love Monokai but who wants more!",
     "version": "1.5.0",
     "publisher": "TheAmalLalgi",
-    "icon": "https://raw.githubusercontent.com/TheAmalLalgi/KenKai-Theme/main/Images/Icons/KK-500.png",
+    "icon": "Images/Icons/KK-200.png",
     "repository": {
         "type": "git",
         "url": "https://github.com/TheAmalLalgi/KenKai-Theme.git"
