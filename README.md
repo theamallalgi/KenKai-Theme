@@ -40,31 +40,34 @@ You can add this code to your settings.json file to get the monokai soda themed 
 <p>&nbsp;</p>
 
 ```
-        // Terminal
+// Terminal
 
-        "terminal.foreground":"#F8F8F2",
-        "terminal.background":"#1E1F1A",
-        "terminalCursor.background":"#F8F8F2",
-        "terminalCursor.foreground":"#F8F8F2",
-        "terminal.ansiBlack":"#272822",
-        "terminal.ansiBlue":"#66D9EF",
-        "terminal.ansiBrightBlack":"#75715E",
-        "terminal.ansiBrightBlue":"#66D9EF",
-        "terminal.ansiBrightCyan":"#A1EFE4",
-        "terminal.ansiBrightGreen":"#A6E22E",
-        "terminal.ansiBrightMagenta":"#AE81FF",
-        "terminal.ansiBrightRed":"#F92672",
-        "terminal.ansiBrightWhite":"#F9F8F5",
-        "terminal.ansiBrightYellow":"#f7cf98",
-        "terminal.ansiCyan":"#A1EFE4",
-        "terminal.ansiGreen":"#A6E22E",
-        "terminal.ansiMagenta":"#AE81FF",
-        "terminal.ansiRed":"#F92672",
-        "terminal.ansiWhite":"#F8F8F2",
-        "terminal.ansiYellow":"#F4BF75",
+"terminal.foreground":"#F8F8F2",
+"terminal.background":"#1E1F1A",
+"terminalCursor.background":"#F8F8F2",
+"terminalCursor.foreground":"#F8F8F2",
+"terminal.ansiBlack":"#272822",
+"terminal.ansiBlue":"#66D9EF",
+"terminal.ansiBrightBlack":"#75715E",
+"terminal.ansiBrightBlue":"#66D9EF",
+"terminal.ansiBrightCyan":"#A1EFE4",
+"terminal.ansiBrightGreen":"#A6E22E",
+"terminal.ansiBrightMagenta":"#AE81FF",
+"terminal.ansiBrightRed":"#F92672",
+"terminal.ansiBrightWhite":"#F9F8F5",
+"terminal.ansiBrightYellow":"#f7cf98",
+"terminal.ansiCyan":"#A1EFE4",
+"terminal.ansiGreen":"#A6E22E",
+"terminal.ansiMagenta":"#AE81FF",
+"terminal.ansiRed":"#F92672",
+"terminal.ansiWhite":"#F8F8F2",
+"terminal.ansiYellow":"#F4BF75",
 ```
 
+<div align="center">
+
 ![](https://raw.githubusercontent.com/TheAmalLalgi/KenKai-Theme/main/Images/KenKai-Theme.png)
+</div>
 
 I used some extensions with the theme too, for this output! Namely, a product icon theme named <span class="Main-Words">Fluent Icons</span>
 
@@ -73,7 +76,7 @@ I used some extensions with the theme too, for this output! Namely, a product ic
 
 <p></div></p>
 
-<p><img src="https://raw.githubusercontent.com/TheAmalLalgi/KenKai-Theme/main/Images/Homepage.png" alt="" /></p>
+<p><img align="center" src="https://raw.githubusercontent.com/TheAmalLalgi/KenKai-Theme/main/Images/Homepage.png" alt="" /></p>
 
 <p><div>  </p>
 
@@ -144,25 +147,19 @@ Feel free to customize it to your will, if you know how to! and don't you dare f
 <p>&nbsp;</p>
 
 ```
-    "workbench.colorCustomizations": {                       // All The customizations related to the editor theme
-
-        // Theme 
-
-        "[Monokai Dark Soda]": {                            // Customization based on specific themes
-
-            // Title Bar
-
-            "titleBar.activeBackground": "#3A393A",
-            "titleBar.inactiveBackground": "#3A2B2C",
-            "titleBar.activeForeground": "#ffffff",
-            "titleBar.inactiveForeground": "#ffffffcc",
-            "titleBar.border": "#3A393A",
-
-            // Editor Window 
-
-            "window.activeBorder": "#272822",
-            "window.inactiveBorder": "#272822",
-        },
+"workbench.colorCustomizations": {                       // All The customizations related to the editor theme
+    // Theme 
+    "[Monokai Dark Soda]": {                            // Customization based on specific themes
+        // Title Bar
+        "titleBar.activeBackground": "#3A393A",
+        "titleBar.inactiveBackground": "#3A2B2C",
+        "titleBar.activeForeground": "#ffffff",
+        "titleBar.inactiveForeground": "#ffffffcc",
+        "titleBar.border": "#3A393A",
+        // Editor Window 
+        "window.activeBorder": "#272822",
+        "window.inactiveBorder": "#272822",
+    },
 
         // Terminal
 
@@ -268,12 +265,11 @@ Feel free to customize it to your will, if you know how to! and don't you dare f
 
         "editor.background":"#252526",
         "editor.foreground": "#FFE8E3",
-        "editorLineNumber.foreground": "#92823f",                       // default Line number color
-        "editorLineNumber.activeForeground": "#ffe375",                // Active Line number color
-        "editor.hideCursorInOverviewRuler": true,                       // Controls if the cursor should be hidden in the overview ruler.
-        "editor.overviewRulerBorder": false,                           // Controls if a border should be drawn around the overview ruler.
-        "editor.overviewRulerLanes": 3,                               // Controls the number of decorations that can show up at the same position in the overview ruler
-
+        "editorLineNumber.foreground": "#92823f",             
+        "editorLineNumber.activeForeground": "#ffe375",       
+        "editor.hideCursorInOverviewRuler": true,            
+        "editor.overviewRulerBorder": false,                
+        "editor.overviewRulerLanes": 3,                    
         // Scroll Bar
 
         "scrollbar.shadow": "#181817",
@@ -282,13 +278,13 @@ Feel free to customize it to your will, if you know how to! and don't you dare f
         "editorOverviewRuler.addedForeground": "#0000",
         "editorOverviewRuler.modifiedForeground": "#0000",
         "editorOverviewRuler.deletedForeground": "#0000",
-        "editorGutter.addedBackground": "#0000",                     // Gutter (same as tweaking scm.diffDecorations?)
-        "editorGutter.modifiedBackground": "#0000",                 // Gutter (same as tweaking scm.diffDecorations?)
-        "editorGutter.deletedBackground": "#0000",                 // Gutter (same as tweaking scm.diffDecorations?)
+        "editorGutter.addedBackground": "#0000",                
+        "editorGutter.modifiedBackground": "#0000",   
+        "editorGutter.deletedBackground": "#0000",            
 
         // Other
 
-        "focusBorder": "#252526",                                   // The Border color of the active pane
+        "focusBorder": "#252526",                            
 
         // Bracket Pair Colorization
 
@@ -311,15 +307,15 @@ Feel free to customize it to your will, if you know how to! and don't you dare f
 
         // Buttons
 
-        // "button.background": "#F92672"                                     // Button background color.
-        // "button.foreground": "#fff"                                       // Button foreground color.
-        // "button.hoverBackground": "#000"                                 // Button background color when hovering.
-        //  "button.secondaryForeground": "#000",                          // Secondary button foreground color.
-        //  "button.secondaryBackground": "#000",                         // Secondary button background color.
-        //  "button.secondaryHoverBackground": "#000",                   // Secondary button background color when hovering.
-        //  "checkbox.background": "#000",                              // Background color of checkbox widget.
-        //  "checkbox.foreground": "#000",                             // Foreground color of checkbox widget.
-        //  "checkbox.border": "#000",                                // Border color of checkbox widget.
+        // "button.background": "#F92672"                        
+        // "button.foreground": "#fff"                          
+        // "button.hoverBackground": "#000"                    
+        //  "button.secondaryForeground": "#000",              
+        //  "button.secondaryBackground": "#000",            
+        //  "button.secondaryHoverBackground": "#000",       
+        //  "checkbox.background": "#000",     
+        //  "checkbox.foreground": "#000",                
+        //  "checkbox.border": "#000",                    
 
 
         // Default Customizations
