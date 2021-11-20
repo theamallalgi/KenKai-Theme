@@ -1,3 +1,10 @@
+
+<div class="logo">
+
+![](https://raw.githubusercontent.com/TheAmalLalgi/KenKai-Theme/main/Images/Logo.png)
+
+</div>
+
 <div align="center">
 
 <div class="Home-Text">
@@ -36,6 +43,15 @@ I used some extensions with the theme too, for this output! Namely, a product ic
 
 <div>  
 
+<div class="Instructions">
+
+1. Go to Extensions Market in your Vs code (Ctrl + Shift + X)
+2. Search for "KenKai Theme"
+3. You will find this theme
+4. Click on the Install Button and Choose the color theme!
+   
+</div>
+
 <div class="Useful_links">
 
 ## Here are some useful Links
@@ -64,3 +80,68 @@ I used some extensions with the theme too, for this output! Namely, a product ic
 *   [Email me at: amallalgi2487@gmail.com](mailto:amallalgi2487@gmail.com)
 
 </div>
+
+
+<!-- Styling -->
+
+<style>
+
+    a {
+        color: cyan;
+        font-size: 16px;
+    }
+    a:hover {
+        text-decoration: underline;
+        color: #00FFFF;
+    }
+
+    ul {
+        list-style-type: none;
+        text-align: center;
+    }
+
+    h2 {
+        padding-bottom: 20px;
+        padding-top: 20px;
+    }
+
+    img {
+        border-radius: 10px;
+    }
+
+    h3, p {
+        color: grey;
+        font-weight: 600;
+        padding-bottom: 10px;
+    }
+
+    h1 {
+        color: crimson;
+        font-weight: 700;
+        padding-top: 10px;
+        padding-bottom: 30px;
+    }
+
+    .Useful_links {
+        text-align: center;
+    }
+
+    .logo {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .Instructions {
+        background: #141414;
+        border-radius: 10px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        text-align: Left;
+        color: #907A05;
+        font-size: 17px;
+        font-weight: 600;
+    }
+
+
+</style>
