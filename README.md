@@ -1,4 +1,3 @@
-
 <div class="logo">
 
 ![](https://raw.githubusercontent.com/TheAmalLalgi/KenKai-Theme/main/Images/Logo.png)
@@ -37,11 +36,11 @@ I used some extensions with the theme too, for this output! Namely, a product ic
 
 </div>
 
-</div>
+<p></div></p>
 
-![](https://raw.githubusercontent.com/TheAmalLalgi/KenKai-Theme/main/Images/Homepage.png)
+<p><img src="https://raw.githubusercontent.com/TheAmalLalgi/KenKai-Theme/main/Images/Homepage.png" alt="" /></p>
 
-<div>  
+<p><div>  </p>
 
 <div class="Instructions">
 
@@ -49,7 +48,7 @@ I used some extensions with the theme too, for this output! Namely, a product ic
 2. Search for "KenKai Theme"
 3. You will find this theme
 4. Click on the Install Button and Choose the color theme!
-   
+
 </div>
 
 <div class="Useful_links">
