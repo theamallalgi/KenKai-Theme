@@ -39,7 +39,7 @@ You can add this code to your settings.json file to get the monokai soda themed 
 </div>
 <p>&nbsp;</p>
 
-```
+```JSON
 // Terminal
 
 "terminal.foreground":"#F8F8F2",
@@ -146,10 +146,10 @@ Feel free to customize it to your will, if you know how to! and don't you dare f
 
 <p>&nbsp;</p>
 
-```
-"workbench.colorCustomizations": {                       // All The customizations related to the editor theme
+```JSON
+"workbench.colorCustomizations": {    // All The customizations related to the editor theme
     // Theme 
-    "[Monokai Dark Soda]": {                            // Customization based on specific themes
+    "[Monokai Dark Soda]": {    // Customization based on specific themes
         // Title Bar
         "titleBar.activeBackground": "#3A393A",
         "titleBar.inactiveBackground": "#3A2B2C",
